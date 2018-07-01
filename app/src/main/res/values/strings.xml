@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_tag">Hello and welcome to our Soccer quiz. kindly input your name below</string>
+    <string name="hintName">Enter your Name</string>
+    <string name="header">Answer the questions below: </string>
+    <string name="question1">1. Which team won the world cup in the year 1998?</string>
+    <string name="germany">Germany</string>
+    <string name="france">France</string>
+    <string name="spain">Spain</string>
+    <string name="brazil">Brazil</string>
+    <string name="question2">2. What does FIFA stand for?</string>
+    <string name="q2a">Federal Institute of Feet Action</string>
+    <string name="q2b">Federacion Internal Famoso Association</string>
+    <string name="q2c">Federation International Football Association</string>
+    <string name="q2d">Federation Internationale de Football Association</string>
+    <string name="question3">3. Which country hosted the FIFA world cup 2010?</string>
+    <string name="q3a">South Africa</string>
+    <string name="q3b">Russia</string>
+    <string name="q3c">USA</string>
+    <string name="q3d">Brazil</string>
+    <string name="question4">4. Which of the following players have scored hat tricks in games at the Fifa world cup?</string>
+    <string name="q4a">Miroslav Klose</string>
+    <string name="q4b">Ronaldinho</string>
+    <string name="q4c">Christiano Ronaldo</string>
+    <string name="q4d">Messi</string>
+    <string name="question5">5. Who is the greatest football player of all time?</string>
+    <string name="q">5. Who is the greatest football player of all time?</string>
+    <string name="hintPlayerName">Enter your Name</string>
+
+</resources>
